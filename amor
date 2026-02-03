@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Para  💖</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<!-- Corazones flotando -->
+<div class="hearts">
+    <span>❤️</span><span>💖</span><span>💕</span><span>❤️</span>
+    <span>💘</span><span>💗</span><span>❤️</span><span>💕</span>
+</div>
+
+<div class="contenedor">
+
+    <h1>💌 Para Mathias 💌</h1>
+
+    <p class="fecha">
+        💞 Desde el <strong>01 de diciembre del 2025</strong><br>
+        ✨ Ya cumplimos <strong>2 meses</strong> juntos ✨
+    </p>
+
+    <div class="contenido">
+        <!-- Árbol de corazones -->
+        <div class="arbol">
+            <div class="copa">
+                <span>❤️</span><span>❤️</span><span>💖</span>
+                <span>💕</span><span>❤️</span><span>💗</span>
+                <span>❤️</span><span>💘</span><span>❤️</span>
+            </div>
+            <div class="tronco"></div>
+        </div>
+
+        <!-- Poema -->
+        <div class="poema">
+            <h2>🌸 Poema para ti 🌸</h2>
+            <p>
+                Desde el día que tomé tu mano,<br>
+                mi mundo empezó a florecer.<br>
+                En tus palabras encuentro calma,<br>
+                y en tu compañia, tranquilidad y amor.
+            </p>
+            <p>
+                No prometo ser perfecta,<br>
+                pero sí un corazón sincero,<br>
+                que elige quedarse contigo,<br>
+                hoy, mañana y en cada recuerdo.
+            </p>
+            <p>
+               Gracias por estar conmigo,
+               por quereme, por apoyarme y 
+               sobre todo por soportarme.
+            </p>
+        </div>
+    </div>
+
+    <p class="frase">
+        Gracias por hacer mis días más lindos solo con existir 💕
+    </p>
+<a href="universo.html" class="corazon-link">
+    ❤️ Haz clic ❤️
+</a>
+
+</div>
+
+</body>
+</html>
